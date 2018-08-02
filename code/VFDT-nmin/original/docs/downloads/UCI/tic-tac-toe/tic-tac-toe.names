@@ -1,0 +1,11 @@
+positive, negative.
+top-left-square: x,o,b.
+top-middle-square: x,o,b.
+top-right-square: x,o,b.
+middle-left-square: x,o,b.
+middle-middle-square: x,o,b.
+middle-right-square: x,o,b.
+bottom-left-square: x,o,b.
+bottom-middle-square: x,o,b.
+bottom-right-square: x,o,b.
+

@@ -1,0 +1,10 @@
+I,S,A.
+L-CORE: high, mid, low.
+L-SURF: high, mid, low.
+L-O2: excellent, good, fair, poor.
+L-BP: high, mid, low.
+SURF-STBL: stable, mod-stable, unstable.
+CORE-STBL: stable, mod-stable, unstable.
+BP-STBL: stable, mod-stable, unstable.
+COMFORT: continuous.
+

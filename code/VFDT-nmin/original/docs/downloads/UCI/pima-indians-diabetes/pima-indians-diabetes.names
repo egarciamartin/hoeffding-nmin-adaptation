@@ -1,0 +1,9 @@
+0,1.
+pregnancies: continuous.
+glucose:continuous.
+blood_pressure: continuous.
+Skin_fold: continuous.
+insulin: continuous.
+bmi:continuous.
+pedigree: continuous.
+age:continuous.
