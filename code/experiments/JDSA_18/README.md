@@ -20,6 +20,7 @@ We want to test the algorithms in three different scenarios.
 ### Study of the number of instances, A_f, A_i. To do that, we use the random tree generator varying these three parameters.
 
 **Varying the number of instances:**
+
 | # Instances | #Ai | #Af | #Classes |
 |-------------|-----|-----|----------|
 | 1M          | 10  | 10  | 2        |
