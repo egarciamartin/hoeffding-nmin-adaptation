@@ -16,16 +16,16 @@ Experiments:
 
 ## Experiments DSAA:
 VFDT, CVFDT, VFDT-nmin comparison
-15 datasets
-Run: 10 times and averaged the results
+15 datasets  
+Run: 10 times and averaged the results  
 Energy measurement: Intel Power Gadget https://software.intel.com/en-us/articles/intel-power-gadget-20
 
 Script that runs the experiments: code/experiments/DSAA18/run.sh
 
 ## Experiments JDSA:
-VFDT, CVFDT, VFDT-nmin comparison
-29 datasets
-Run: 5 times and averaged the results
+VFDT, CVFDT, VFDT-nmin comparison  
+29 datasets  
+Run: 5 times and averaged the results   
 Energy measurement: Intel Power Gadget https://software.intel.com/en-us/articles/intel-power-gadget-20
 
 Script that runs the experiments: code/experiments/JDSA_18/{run_baseline.sh,run_drift.sh,run_real.sh}
