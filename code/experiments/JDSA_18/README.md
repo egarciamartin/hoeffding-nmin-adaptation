@@ -66,7 +66,7 @@ We create the dataset without drift, and the same one with gradual or abrupt dri
 
 
 
-Total of 32 datasets.
+Total of 29 datasets.
 Run: 5 times and averaged the results
 Energy measurement: Intel Power Gadget https://software.intel.com/en-us/articles/intel-power-gadget-20
 
