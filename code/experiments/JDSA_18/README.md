@@ -18,6 +18,7 @@ We have also created analyze.sh scripts, that analyze the results, creates the t
 VFDT, CVFDT, VFDT-nmin comparison
 We want to test the algorithms in three different scenarios. 
 ### Study of the number of instances, A_f, A_i. To do that, we use the random tree generator varying these three parameters.
+
 **Varying the number of instances:**
 | # Instances | #Ai | #Af | #Classes |
 |-------------|-----|-----|----------|
